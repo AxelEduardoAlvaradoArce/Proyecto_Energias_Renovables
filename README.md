@@ -19,9 +19,9 @@ Este repositorio contiene los datos y el código del análisis realizado.
 
 | Archivo | Fuente |
 |---|---|
-| `tes_per_capita_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "TES per capita") |
-| `renovables_excl_hidro_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "Ren power (excl hydro) - TWh") |
-| `generacion_electrica_raw.csv` | Energy Institute, *Statistical Review of World Energy* (hoja "Electricity Generation - TWh") |
+| `tes_per_capita_raw.csv` | Energy Institute, Statistical Review of World Energy (hoja "TES per capita") |
+| `renovables_excl_hidro_raw.csv` | Energy Institute, Statistical Review of World Energy (hoja "Ren power (excl hydro) - TWh") |
+| `generacion_electrica_raw.csv` | Energy Institute, Statistical Review of World Energy (hoja "Electricity Generation - TWh") |
 | `pib_per_capita_ppp_raw.csv` | Banco Mundial, Indicadores del Desarrollo Mundial (indicador NY.GDP.PCAP.PP.CD) |
 
 El Statistical Review of World Energy es la fuente que utiliza [Our World in Data](https://ourworldindata.org/renewable-energy) para construir sus series de energía renovable. Su archivo de Excel (101 hojas) se descargó del sitio del [Energy Institute](https://www.energyinst.org/statistical-review) y cada una de las tres hojas utilizadas se guardó como CSV. El PIB se descargó en CSV desde el [portal del Banco Mundial](https://datos.bancomundial.org/indicador/NY.GDP.PCAP.PP.CD).
