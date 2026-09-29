@@ -9,11 +9,11 @@ Este repositorio contiene los datos y el código del análisis realizado.
 | Archivo | Descripción |
 |---|---|
 | `Proyecto_Transicion_Hacia_Energias_Renovables.ipynb` | Notebook con el análisis completo: obtención y limpieza de los datos, análisis exploratorio, cálculo de la penetración renovable y de la velocidad de transición, modelos Lasso y Ridge, diagnóstico y proyección a 2035. |
-| `tes_per_capita_raw.csv` | Datos originales: suministro total de energía por habitante, en gigajoules (GJ). |
-| `renovables_excl_hidro_raw.csv` | Datos originales: generación de electricidad con fuentes renovables, excluyendo la hidroeléctrica, en teravatios-hora (TWh). |
-| `generacion_electrica_raw.csv` | Datos originales: generación total de electricidad, en teravatios-hora (TWh). |
-| `pib_per_capita_ppp_raw.csv` | Datos originales: PIB per cápita en paridad de poder adquisitivo (PPA), en dólares internacionales corrientes. |
-| `datos.csv` | Base consolidada país-año que resulta de la limpieza e integración de las cuatro fuentes. |
+| `tes_per_capita_raw.csv` | Suministro total de energía por habitante, en gigajoules (GJ). |
+| `renovables_excl_hidro_raw.csv` | Generación de electricidad con fuentes renovables, excluyendo la hidroeléctrica, en teravatios-hora (TWh). |
+| `generacion_electrica_raw.csv` | Generación total de electricidad, en teravatios-hora (TWh). |
+| `pib_per_capita_ppp_raw.csv` | PIB per cápita en paridad de poder adquisitivo (PPA), en dólares internacionales corrientes. |
+| `datos.csv` | Base de datos final, obtenida tras limpiar e integrar las cuatro fuentes, con una observación por país y año. |
 
 ## Fuentes de datos
 
